@@ -3,4 +3,4 @@
 * "Ali Shahidi" Alishahidi1997@gmail.com
 * "Setare Askari" setareaskari79@gmail.com
 
-**Note 1**: My reports for the assignments are written in Persian because it was a rule of our course.
+**Note 1**: Our report for the project is written in Persian because it was a rule of our course.
